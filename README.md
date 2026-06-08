@@ -1,16 +1,29 @@
-## Hi there 👋
+# Ishita Biswas — Writing Portfolio
 
-<!--
-**ishitabiswas0201-lab/ishitabiswas0201-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Personal portfolio website for **Ishita Biswas**, Content Writer, Copywriter & Content Strategist based in Kolkata, India.
 
-Here are some ideas to get you started:
+🌐 **Live site:** [ishitabiswas.github.io](https://ishitabiswas.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+This portfolio showcases writing samples and content strategy work across multiple niches:
+
+- **Blog Writing** — Student focus & mental health
+- **Social Media Copywriting** — Instagram ad campaign (Slayy Sunglasses)
+- **Technical Writing** — Sports betting guide & Dream11 platform review
+- **Content Strategy** — Full content plan with platform strategy and content calendar
+- **Digital Products** — Published book, guides, and Zero Coin India consultancy
+
+## Built With
+
+- Plain HTML, CSS & JavaScript — no frameworks, no dependencies
+- Google Fonts (Playfair Display + DM Sans)
+- Hosted on GitHub Pages
+
+## Contact
+
+📧 ishitabiswas0201@gmail.com  
+📞 +91 8927447022  
+📍 Kolkata, West Bengal, India
